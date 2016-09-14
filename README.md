@@ -2,6 +2,8 @@
 
 Ros Jade package for Thalmic Myo armband as a controller for R2 humanoid robot, in the Gazebo world.
 
+The simulation videos :
+
 * https://www.youtube.com/watch?v=giWJHEerrBo
 * https://www.youtube.com/watch?v=jFl5EQZCZgk
 
