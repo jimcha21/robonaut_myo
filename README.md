@@ -6,7 +6,7 @@ Ros Jade package for Thalmic Myo armband as a controller for R2 humanoid robot, 
 <center><img src="https://github.com/jimcha21/robonaut_myo/blob/master/images/hand_control.gif?raw=true"></center>
 
 
-The simulation videos :
+# Simulation videos :
 
 *  <i>Hand Control</i> , https://www.youtube.com/watch?v=giWJHEerrBo 
 * <i>Arm Control</i> , https://www.youtube.com/watch?v=jFl5EQZCZgk 
