@@ -11,3 +11,5 @@ The simulation videos :
 
 #Webpage
 For more details check, http://users.isc.tuc.gr/~dchatziparaschis/
+
+![alt tag](https://github.com/jimcha21/robonaut_myo/blob/master/images/hand_control.gif?raw=true)
