@@ -1,5 +1,6 @@
 # robonaut_myo
 
+[This package isn't fully uploaded..] 
 Ros Jade package for Thalmic Myo armband as a controller for R2 humanoid robot, in the Gazebo world.
 
 # Installation Wiki
